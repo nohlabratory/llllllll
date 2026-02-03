@@ -1,0 +1,5 @@
+{
+  "name": "Lerb Link Pro - Link Processing Bot",
+  "description": "A powerful Telegram bot manager that filters public and private links, removes duplicates, and exports processed data to text files. Features real-time link monitoring and automatic message cleanup.",
+  "requestFramePermissions": []
+}
